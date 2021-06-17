@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: efce840eb55a3b5458efafd8188c2e18
+guid: 18cca6ec564cf794b87ef3e689396f6c
 ModelImporter:
   serializedVersion: 21100
   internalIDToNameTable:
   - first:
-      74: -5038643898385997594
-    second: metarig|idlethumb
+      74: 2611075726810385300
+    second: metarig|idle
   - first:
       74: -551706309097897915
     second: metarig|JUMP
@@ -104,7 +104,7 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 2
+  animationType: 3
   humanoidOversampling: 1
   avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1

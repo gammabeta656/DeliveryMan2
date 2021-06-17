@@ -18,7 +18,7 @@ public class PlayerHealth : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
-        currentModel = Instantiate(model1, transform.position, transform.rotation) as GameObject;
+        currentModel = Instantiate(model1, transform.position, Quaternion.Euler(0, 180, 0)) as GameObject;
         currentModel.transform.parent = transform;
     }
 
