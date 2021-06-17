@@ -7,6 +7,8 @@ TagManager:
   - Road
   - Restaurant
   - Client
+  - Obstacle
+  - Hole
   layers:
   - Default
   - TransparentFX
