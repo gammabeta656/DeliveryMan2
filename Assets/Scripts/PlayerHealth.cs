@@ -66,5 +66,10 @@ public class PlayerHealth : MonoBehaviour
             Debug.Log("-1HP");
             Damage(1);
         }
+        else if (hit.gameObject.tag == "Hole")
+        {
+            Debug.Log("-2HP");
+            Damage(2);
+        }
     }
 }
