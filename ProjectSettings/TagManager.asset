@@ -9,6 +9,7 @@ TagManager:
   - Client
   - Obstacle
   - Hole
+  - Gaivota
   layers:
   - Default
   - TransparentFX
