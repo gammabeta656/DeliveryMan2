@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MasterTagFolder" id="{64318bf5-b94d-441d-a583-91be2f0a428a}">
+		<property name="name">
+			<value>Master</value>
+		</property>
+		<relationship name="items">
+			<destination>{ea4fd45e-bf1e-4792-bf18-adda6019b311}</destination>
+			<destination>{ab16c5d5-5bf7-45c2-a1bb-34b51ecf6c42}</destination>
+			<destination>{b79f48f1-03b1-4e5b-8c31-d55b8a10ae68}</destination>
+			<destination>{39b34e9e-9909-4cd2-9000-3f897569595b}</destination>
+			<destination>{8fc98047-bfae-4500-90ae-4248960766aa}</destination>
+			<destination>{15f19e7d-3979-4210-b2d1-27155e6bba61}</destination>
+			<destination>{2defa365-e31a-4910-b10e-484d5071cdf6}</destination>
+			<destination>{c652fe3c-c6bd-47f5-b3e7-de21990b224e}</destination>
+			<destination>{2fcd1823-a03a-489c-aad9-ec9afd6fa9bc}</destination>
+		</relationship>
+	</object>
+	<object class="Tag" id="{ea4fd45e-bf1e-4792-bf18-adda6019b311}">
+		<property name="name">
+			<value>ahdsr-modulator</value>
+		</property>
+	</object>
+	<object class="Tag" id="{ab16c5d5-5bf7-45c2-a1bb-34b51ecf6c42}">
+		<property name="name">
+			<value>async</value>
+		</property>
+	</object>
+	<object class="Tag" id="{b79f48f1-03b1-4e5b-8c31-d55b8a10ae68}">
+		<property name="name">
+			<value>automation</value>
+		</property>
+	</object>
+	<object class="Tag" id="{39b34e9e-9909-4cd2-9000-3f897569595b}">
+		<property name="name">
+			<value>built-in-parameter</value>
+		</property>
+	</object>
+	<object class="Tag" id="{8fc98047-bfae-4500-90ae-4248960766aa}">
+		<property name="name">
+			<value>loop-instrument</value>
+		</property>
+	</object>
+	<object class="Tag" id="{15f19e7d-3979-4210-b2d1-27155e6bba61}">
+		<property name="name">
+			<value>parameter</value>
+		</property>
+	</object>
+	<object class="Tag" id="{2defa365-e31a-4910-b10e-484d5071cdf6}">
+		<property name="name">
+			<value>scatterer-instrument</value>
+		</property>
+	</object>
+	<object class="Tag" id="{c652fe3c-c6bd-47f5-b3e7-de21990b224e}">
+		<property name="name">
+			<value>seek-speed</value>
+		</property>
+	</object>
+	<object class="Tag" id="{2fcd1823-a03a-489c-aad9-ec9afd6fa9bc}">
+		<property name="name">
+			<value>single-instrument</value>
+		</property>
+	</object>
+</objects>

@@ -85,7 +85,9 @@ public class Delivery : MonoBehaviour
             DestroyBoxes();
             Debug.Log("Entregou");
 
-            entregouCaixa = true; 
+            entregouCaixa = true;
+
+            Points.instance.AddPoint();
 
             DisableCollider(deliveryVar);
         }

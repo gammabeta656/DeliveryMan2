@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{e785d389-fa5f-4400-968d-3f8caf71587d}">
+		<property name="assetPath">
+			<value>Mota/518173__cmart94__motorcycle-engine-30km.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>10</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2a0d1b58-1609-41f3-a495-18336a1c9c75}</destination>
+		</relationship>
+	</object>
+</objects>

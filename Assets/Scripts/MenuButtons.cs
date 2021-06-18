@@ -30,4 +30,9 @@ public class MenuButtons : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public void GameOverButton()
+    {
+        SceneManager.LoadScene("LevelSelection");
+    }
 }
