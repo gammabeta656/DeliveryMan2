@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
+   
     public float speed = 1.0f;
     public Vector3 jump;
     //tw
@@ -13,6 +14,7 @@ public class PlayerMove : MonoBehaviour
 
     void Start()
     {
+        
         rb = GetComponent<Rigidbody>();
         jump = new Vector3(0.0f, 2.0f, 0.0f);
     }
@@ -38,5 +40,6 @@ public class PlayerMove : MonoBehaviour
             rb.AddForce(jump * jumpForce, ForceMode.Impulse);
             isGrounded = false;
         }
+    
     }
 }
