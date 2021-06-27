@@ -15040,7 +15040,7 @@ MonoBehaviour:
   CollisionTag: 
   Event: event:/Musics/LVL1Music
   PlayEvent: 1
-  StopEvent: 0
+  StopEvent: 2
   AllowFadeout: 1
   TriggerOnce: 0
   Preload: 0
@@ -15080,7 +15080,7 @@ MonoBehaviour:
   CollisionTag: Obstacle
   Event: event:/Player/Batidas na mota
   PlayEvent: 3
-  StopEvent: 0
+  StopEvent: 4
   AllowFadeout: 1
   TriggerOnce: 0
   Preload: 0
@@ -15126,7 +15126,7 @@ MonoBehaviour:
   CollisionTag: 
   Event: event:/Player/Corrida
   PlayEvent: 1
-  StopEvent: 0
+  StopEvent: 2
   AllowFadeout: 1
   TriggerOnce: 0
   Preload: 0

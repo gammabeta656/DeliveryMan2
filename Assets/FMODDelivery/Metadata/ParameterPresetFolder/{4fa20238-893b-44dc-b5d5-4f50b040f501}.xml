@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPresetFolder" id="{4fa20238-893b-44dc-b5d5-4f50b040f501}">
+		<property name="name">
+			<value>City</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1f19e961-df7b-4dd6-b2ef-8c803d094855}</destination>
+		</relationship>
+	</object>
+</objects>
